@@ -2,7 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #FF862A;
+    --laranja-claro: #ff8a2a;
+    --preto: #000000;
+    --amarelo: #fde932;
+    --lilas: #e184f3;
 }
 
 body {
@@ -165,4 +168,8 @@ h2 {
 
 .apresenta-lista{
     display: none;
+}
+
+@media screen {
+    
 }
